@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package bibliotecaex;
+package acervo;
 
 /**
  *
- * @author Aluno01
+ * @author Usuário
  */
 public class Principal {
 
